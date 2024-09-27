@@ -66,8 +66,6 @@ _*Feedback is welcome.*_
 `python3 -m venv .venv && source .venv/bin/activate`
 - Install dependencies: <br>
 `python3 -m pip install -r dev-requirements.txt`
-
-##### Function to search for a word:
 - In the terminal, run the commands below: <br>
 `python3 ting_word_searches/word_search.py` <br>
 - After typing the word or letter to be searched, provide the path to the file. <br>
@@ -126,8 +124,6 @@ _*Feedbacks são bem vindos.*_
 `python3 -m venv .venv && source .venv/bin/activate`
 - Instale as dependências: <br>
 `python3 -m pip install -r dev-requirements.txt`
-
-##### Função para buscar palavra:
 - No terminal execute os comandos abaixo: <br>
 `python3 ting_word_searches/word_search.py` <br>
 - Após digitar a palavra ou letra que será buscada, coloque o caminho para onde está o arquivo. <br>
