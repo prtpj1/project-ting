@@ -53,6 +53,7 @@ _*Feedback is welcome.*_
 ## Stacks
 ### BackEnd:
 - Python
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
 
 ---
@@ -112,6 +113,7 @@ _*Feedbacks são bem vindos.*_
 ## Tecnologias Utilizadas
 ### BackEnd:
 - Python
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/Python2.png?raw=true" width="50" height="50" alt="Python Icon" /></a>
 
 ---
