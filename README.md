@@ -67,7 +67,7 @@ _*Feedback is welcome.*_
 - In the terminal, run the commands below: <br>
 `python3 ting_word_searches/word_search.py` <br>
 - After typing the word or letter to be searched, provide the path to the file. <br>
-Below are the possible paths __(choose one at a time)__ considering the files that already exist, but you can add your own files or direct the search to another folder __(pay attention to the path format)__:
+Below are the possible paths __(choose one at a time)__ considering the files that already exist, but you can add your own files or direct the search to another folder __(pay attention to the path format)__:<br>
 `./statics/arquivo_teste.txt` <br>
 `./statics/nome_pedro.txt`  <br>
 `./statics/novo_paradigma_globalizado-min.txt` <br>
@@ -121,7 +121,7 @@ _*Feedbacks são bem vindos.*_
 - No terminal execute os comandos abaixo: <br>
 `python3 ting_word_searches/word_search.py` <br>
 - Após digitar a palavra ou letra que será buscada, coloque o caminho para onde está o arquivo. <br>
-Abaixo os caminhos possíveis __(escolha um de cada vez)__ considerando os arquivos que já existem, mas você pode adicionar seus próprios arquivos ou direcionar para outra pasta que desejar __(fique atento ao formato do caminho)__:
+Abaixo os caminhos possíveis __(escolha um de cada vez)__ considerando os arquivos que já existem, mas você pode adicionar seus próprios arquivos ou direcionar para outra pasta que desejar __(fique atento ao formato do caminho)__:<br>
 `./statics/arquivo_teste.txt` <br>
 `./statics/nome_pedro.txt`  <br>
 `./statics/novo_paradigma_globalizado-min.txt` <br>
